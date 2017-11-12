@@ -1,6 +1,6 @@
 
-.idea/.* # Pycharm project folder
-build/.*
+.idea # Pycharm project folder
+build
 
 # Git preset python .gitignore
 # Byte-compiled / optimized / DLL files
